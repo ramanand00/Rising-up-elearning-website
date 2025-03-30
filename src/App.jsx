@@ -39,6 +39,7 @@ import Spinner from "./Components/Pages/terms&condition";
 import TermsAndConditions from "./Components/Pages/terms&condition";
 // import FAQs from "./Components/Ebook/FAQs";
 // import privacypolicy from "./Components/Pages/privacypolicy";
+import GoogleAd from "./Components/GoogleAd";
 
 function App() {
   const { loginWithRedirect } = useAuth0();
@@ -47,6 +48,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/GoogleAd" element={<GoogleAd />} />
           <Route path="/about" element={<About1 />} />
           <Route path="/courses" element={<Courses1 />} />
           <Route path="/team" element={<Team1 />} />

@@ -10,11 +10,13 @@ import Footer from './Footer'
 import Spinner from './Spinner'
 import Contact from './Contact'
 import BotpressChatbot from '../Ebook/BotpressChatbot'
+import GoogleAd from "../GoogleAd";
 
 export default function Home() {
     return (
         <>
-            <Spinner/>
+            <Spinner/>{/* Google Ad Here */}
+            <GoogleAd />
             <Navbar/>
             <Slide/>
             <Service/>
