@@ -93,7 +93,7 @@ export default function Profile() {
                             icon="github fa-lg"
                             style={{ color: "#333333" }}
                           />
-                          <MDBCardText>basant-goswami</MDBCardText>
+                          <MDBCardText>Ramanand-</MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -101,7 +101,7 @@ export default function Profile() {
                             icon="twitter fa-lg"
                             style={{ color: "#55acee" }}
                           />
-                          <MDBCardText>@basantgoswmai_</MDBCardText>
+                          <MDBCardText>@Ramanand00</MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -109,7 +109,7 @@ export default function Profile() {
                             icon="instagram fa-lg"
                             style={{ color: "#ac2bac" }}
                           />
-                          <MDBCardText>basant.bharati.54</MDBCardText>
+                          <MDBCardText>Ramanand.mandal.54</MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -117,7 +117,7 @@ export default function Profile() {
                             icon="facebook fa-lg"
                             style={{ color: "#3b5998" }}
                           />
-                          <MDBCardText>basant bharati</MDBCardText>
+                          <MDBCardText>Ramanand mandal</MDBCardText>
                         </MDBListGroupItem>
                       </MDBListGroup>
                     </MDBCardBody>

@@ -99,8 +99,8 @@ export default function Team() {
                   </div>
                 </div>
                 <div className="text-center p-4">
-                  <h5 className="mb-0">Baburam Kandel</h5>
-                  <small>Chemistry Teachet</small> <br />
+                  <h5 className="mb-0">Ankit Bhattarai</h5>
+                  <small>Django Devloper</small> <br />
                   <small>Professor</small>
                 </div>
               </div>

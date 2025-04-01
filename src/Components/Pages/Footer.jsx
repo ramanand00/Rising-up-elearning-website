@@ -161,7 +161,7 @@ export default function Footer() {
                 , All Right Reserved. Designed By{" "} <strong>SoftRiseup</strong>
                 {/* <a
                   className="border-bottom"
-                  href="https://www.linkedin.com/in/basant-kumar-bharati"
+                  href="https://www.linkedin.com/in/Ramanand-kumar-mandal"
                   target="_blank"
                 >
                   <strong>SoftRiseup</strong>

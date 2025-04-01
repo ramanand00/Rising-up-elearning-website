@@ -14,7 +14,7 @@ export default function Mern() {
     // price: "Free for you",
     review: 285,
     title: "React Js Tutorials",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.50 Hrs",
     totalstudent: "35",
   };
@@ -27,7 +27,7 @@ export default function Mern() {
     // price: "Free for you",
     review: 156,
     title: "Mongodb Tutorials",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.50 Hrs",
     totalstudent: "35",
   };
@@ -40,7 +40,7 @@ export default function Mern() {
     // price: "Free for you",
     review: 115,
     title: "Express Js Tutorials",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.50 Hrs",
     totalstudent: "35",
   };
@@ -53,7 +53,7 @@ export default function Mern() {
     // price: "Free for you",
     review: 85,
     title: "Node JS Tutorials",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.50 Hrs",
     totalstudent: "35",
   };

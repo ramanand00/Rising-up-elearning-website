@@ -12,7 +12,7 @@ export default function Cources() {
     // price: "Free for You",
     review: 245,
     title: "Web Design & Development Course for Beginners",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "9.50 Hrs",
     totalstudent: "335",
   };
@@ -25,7 +25,7 @@ export default function Cources() {
     // price: "Free for You",
     review: 85,
     title: "Basic & Core Java Programming Language",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "4.50 Hrs",
     totalstudent: "65",
   };
@@ -38,7 +38,7 @@ export default function Cources() {
     // price: "Free for You",
     review: 95,
     title: "Data Structure & Algorithms Using Java",
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "4.50 Hrs",
     totalstudent: "57",
   };

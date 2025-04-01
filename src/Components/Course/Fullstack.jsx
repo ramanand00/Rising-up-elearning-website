@@ -12,7 +12,7 @@ export default function Fullstack() {
     join: "/courses/fullstack/html",
     // price: "Free for You",
     title: "HTML5 Tutorials",
-    teachername: "Basant",
+    teachername: "Ramanand",
     review: 210,
     duration: "3.11 Hrs",
     totalstudent: "50",
@@ -26,7 +26,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "CSS Tutorials",
     review: 237,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.00 Hrs",
     totalstudent: "35",
   };
@@ -39,7 +39,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "JavaScript Tutorials",
     review: 174,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "4.20 Hrs",
     totalstudent: "45",
   };
@@ -52,7 +52,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "MySQL Tutorials",
     review: 123,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "3.16 Hrs",
     totalstudent: "35",
   };
@@ -66,7 +66,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "React Js Tutorials",
     review: 34,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "2.50 Hrs",
     totalstudent: "35",
   };
@@ -79,7 +79,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "Mongodb Tutorials",
     review: 98,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.50 Hrs",
     totalstudent: "35",
   };
@@ -92,7 +92,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "Express Js Tutorials",
     review: 231,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.30 Hrs",
     totalstudent: "35",
   };
@@ -105,7 +105,7 @@ export default function Fullstack() {
     // price: "Free for You",
     title: "Node JS Tutorials",
     review: 88,
-    teachername: "Basant",
+    teachername: "Ramanand",
     duration: "1.50 Hrs",
     totalstudent: "35",
   };
