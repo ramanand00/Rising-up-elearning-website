@@ -40,6 +40,7 @@ import TermsAndConditions from "./Components/Pages/terms&condition";
 // import FAQs from "./Components/Ebook/FAQs";
 // import privacypolicy from "./Components/Pages/privacypolicy";
 import GoogleAd from "./Components/GoogleAd";
+import Mongo from "./components/contents/mongo";
 
 function App() {
   const { loginWithRedirect } = useAuth0();
@@ -66,12 +67,13 @@ function App() {
           <Route path="/terms&condition" element={<TermsAndConditions />} />
           {/* <Route path="/faq" element={<faq />} /> */}
           {/* <Route path="/privacypolicy" element={<privacypolicy />} /> */}
+          
           <Route path="/test" element={<Test />} />
           <Route path="/test/java" element={<JavaQuiz />} />
           <Route path="/test/fullstack" element={<FullstackQuiz />} />
           <Route path="/test/javascript" element={<JavascriptQuiz />} />
           <Route path="/test/react" element={<ReactQuiz />} />
-
+          <Route path="/components/contents/mongo" element={<Mongo />} />
           <Route path="/courses/java" element={<Javaprog />} />
           <Route path="/courses/dsa" element={<Dsa />} />
 
